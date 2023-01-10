@@ -16,7 +16,7 @@ C.A. (Certificate Authority): Entidade que emite certificados digitais, que cert
 
 CERT (The Computer Emergency Response Team): 
 
-CIA Triad (Confidentiality, Integrity and Authenticity Triad): Os principais atributos que orientam a análise, o planejamento e a implementação da segurança da informação para o que se deseja proteger.
+CIA Triad (Confidentiality, Integrity and Authenticity Triad): 
 
 CMD (Command Prompt): Interface de linha de comando do sistema operacional Windows, ou seja, a forma de se comunicar com o sistema operacional através de comandos de texto.
 
@@ -31,9 +31,7 @@ Crypto (Cryptocurrency): Moeda digital que valida as transações através de cr
 DB (Database): Coleção de dados guardados eletronicamente de forma organizada. Há muitas formas de base de dados, mas em geral são projetados de forma a guardar as informações com segurança e praticidade.
 
 DDoS (Distributed Denial of Service): 
-
 Data
-
 Decode
 DoS (Denial of Service): 
 Downtime
